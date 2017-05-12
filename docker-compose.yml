@@ -1,7 +1,7 @@
 version: '2'
 services:
   php:
-    image: anissusilo1297/apache-tccphp
+    image: munifatul03/apache-tccphp
     ports:
       - "80:80"
       - "443:443"
