@@ -19,12 +19,16 @@
 ```
  git clone https://github.com/irawand07/tcc-docker-compose 
 ```
-3. Jalankan perintah pada terminal 
+3. Masuk ke direktori tcc-docker-compose dengan perintah
+```
+ cd tcc-docker-compose 
+```
+4. Jalankan perintah pada terminal 
 ```
 sudo docker-compose up -d
 ```
-4. Jika sudah selesai buka browser ketikkan  di url 
+5. Jika sudah selesai buka browser ketikkan  di url 
 ```
 http://localhost/
 ```
-5. Selesai
+6. Selesai
