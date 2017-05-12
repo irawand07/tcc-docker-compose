@@ -10,9 +10,11 @@ Nama Kelompok :
 
 <h3>Cara Menjalankan</h3>
 1. Pastikan telah mengistall docker, docker compose, dan git <br/>
-2. Lakukan download dari repository ini atau `git clone https://github.com/irawand07/tcc-docker-compose`<br/>
-3. Jalankan perintah `docker-compose up -d` <br/>
-4. Jika sudah selesai buka browser ketikkan `http://localhost/` pada url <br/>
+2. Lakukan download dari repository ini atau 
+`git clone https://github.com/irawand07/tcc-docker-compose`
+3. Jalankan perintah 
+`docker-compose up -d`
+4. Jika sudah selesai buka browser ketikkan  di url
+`http://localhost/`
 5. Selesai <br/>
 
-`docker-compose up -d`
