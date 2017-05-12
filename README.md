@@ -19,3 +19,5 @@ Nama Kelompok :
 `http://localhost/`
 5. Selesai <br/>
 
+Jika sudah selesai buka browser ketikkan  di url
+`http://localhost/`
