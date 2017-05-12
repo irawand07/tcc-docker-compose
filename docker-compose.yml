@@ -1,0 +1,18 @@
+version: '2'
+services:
+  php:
+    image: anissusilo1297/apache-tccphp
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./app:/var/www/html
+    links:
+      - db
+
+  db:
+    image: munifatul03/mysql-tccdb
+    volumes:
+     - ./db:/var/lib/mysql
+    environment:
+     - MYSQL_ROOT_PASSWORD=dedi
