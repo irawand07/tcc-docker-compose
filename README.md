@@ -9,13 +9,12 @@ Nama Kelompok :
 - <a href="https://hub.docker.com/r/munifatul03/mysql-tccdb/">DB Mysql </a>
 
 <h3>Cara Menjalankan</h3>
-Pastikan telah mengistall docker, docker compose, dan git <br/>
-Lakukan download dari repository ini atau <br/>
+Pastikan telah mengistall docker, docker compose, dan git 
+Lakukan download dari repository ini atau 
 `git clone https://github.com/irawand07/tcc-docker-compose`
-<br/>
 Jalankan perintah 
-`docker-compose up -d` <br/>
+`docker-compose up -d`
 Jika sudah selesai buka browser ketikkan  di url
-`http://localhost/` <br/>
-Selesai <br/>
+`http://localhost/`
+Selesai
 
