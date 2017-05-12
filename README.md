@@ -10,8 +10,8 @@
 4. Munifatul Arifah (145610162)
 
 ### Link kontainer/images yang digunakan
-- <a href="https://hub.docker.com/r/munifatul03/apache-tccphp/">Apache-php</a>
-- <a href="https://hub.docker.com/r/munifatul03/mysql-tccdb/">DB Mysql </a>
+- Web server : <a href="https://hub.docker.com/r/munifatul03/apache-tccphp/">munifatul03/apache-tccphp </a>
+- Database : <a href="https://hub.docker.com/r/munifatul03/mysql-tccdb/">munifatul03/mysql-tccdb</a>
 
 ### Cara Menjalankan
 1. Pastikan telah mengistall docker, docker compose, dan git
